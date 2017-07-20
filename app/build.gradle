@@ -39,5 +39,5 @@ dependencies {
     compile files('libs/filechoose.jar')
 
     //后台地址https://www.bmob.cn/app/browser/166257/969507
-    //账号:qq邮箱  密码：bb.13
+    //账号:qq邮箱  密码：bb.1--3
 }
